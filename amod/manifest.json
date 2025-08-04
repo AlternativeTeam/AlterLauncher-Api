@@ -1,0 +1,14 @@
+{
+    "icon":"default", //The images in this directory or default
+    "name": "Plugin Name",
+    "description": "Plugin Description",
+    "version": "Plugin Version",
+    "author": "Plugin Author",
+    "native":"Plugin Native Directory or File",
+    "plugin":"Plugin Dex Directory or File",
+    "import":"com.main", // Dex Plugin Entrance
+    "framework":"Plugin Framework(LeviLauncher/NMod)",
+    "max_version":1, //Maximum Minecraft Version
+    "min_version":0, // Minimum Minecraft Version
+    "protocol":1 //Plugin Protocol Version
+}
