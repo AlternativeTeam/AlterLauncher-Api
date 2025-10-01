@@ -1,6 +1,12 @@
 # AlterLauncher-Api
 AlterLauncher-Api For AlterLauncher (A Minecraft Launcher)
 
+# AMOD
+
+A Mods Metadat Bean
+
+> 一个模组数据集合标准
+
 # Use
 Import your project and then import **com.answer.launcher.api.PluginInit** Package to entry class
 
